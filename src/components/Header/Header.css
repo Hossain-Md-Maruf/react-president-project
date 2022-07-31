@@ -1,0 +1,8 @@
+.header{
+    background-color: steelblue;
+    color: whitesmoke;
+    border: 3px dashed lightcoral;
+    border-radius: 10px;
+    margin: 5px 20px;
+}
+.span{color: rebeccapurple}
